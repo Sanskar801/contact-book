@@ -1,6 +1,3 @@
-# contact-book
-Contact book is a simple CRUD based full stack project with complete developemental cycles.
-
 # Contact Book Application
 
 A full-stack contact management application built with React, Spring Boot, and modern DevOps practices.
